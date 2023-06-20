@@ -677,6 +677,7 @@ void manage()
 				}
 				f.close();
 				break;
+			// pass :- admin
 			}
 		}while(ch<=3);
 }
